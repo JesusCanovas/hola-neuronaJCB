@@ -11,7 +11,7 @@ Este proyecto implementa ejemplos de neuronas con diferentes configuraciones uti
 5. [Agradecimientos](#agradecimientos)
 
 ## Descripción
-
+<img src="images/neurona1.png">
 La aplicación "Hola Neurona" proporciona ejemplos interactivos de neuronas con diferentes configuraciones. Puedes visualizar y experimentar con neuronas de una, dos y tres entradas, así como sesgo.
 
 ## Estructura del Proyecto
